@@ -1,6 +1,10 @@
-; SHUBHAM SHARMA
+; add two 8-bit numbers
+
 MVI A, 30H
 MVI B, 50H
 ADD B
 STA 500H 
-HLT t
+HLT 
+
+; SHUBHAM SHARMA
+; 2021-22BCSE046
